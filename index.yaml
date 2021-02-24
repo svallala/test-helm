@@ -30,6 +30,6 @@ entries:
     - https://github.com/bitnami/bitnami-docker-nginx
     - http://www.nginx.org
     urls:
-    - https://github.com/svallala/test-helm/nginx-8.5.4.tgz
+    - https://github.com/svallala/test-helm/blob/main/nginx-8.5.4.tgz
     version: 8.5.4
 generated: "2021-02-21T18:53:23.162147813-05:00"
