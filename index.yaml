@@ -5,7 +5,7 @@ entries:
       category: Infrastructure
     apiVersion: v2
     appVersion: 1.19.7
-    created: "2021-02-21T18:53:23.167226065-05:00"
+    created: "2021-03-09T04:40:13.638361084-05:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -13,7 +13,7 @@ entries:
       - bitnami-common
       version: 1.x.x
     description: Chart for the nginx server
-    digest: 802720e4772b502de7e7732c7030179ea6ebe593c0cec5ea1b4a086fc2c806e0
+    digest: 7b6f764bd2fd76ae2c551dd9e97d3a7e83b2120dbaf72b45387e200b6c6e1132
     home: https://github.com/bitnami/charts/tree/master/bitnami/nginx
     icon: https://bitnami.com/assets/stacks/nginx/img/nginx-stack-220x234.png
     keywords:
@@ -30,6 +30,6 @@ entries:
     - https://github.com/bitnami/bitnami-docker-nginx
     - http://www.nginx.org
     urls:
-    - https://github.com/svallala/test-helm/blob/main/nginx-8.5.4.tgz
+    - https://svallala.github.io/test-helm/nginx-8.5.4.tgz
     version: 8.5.4
-generated: "2021-02-21T18:53:23.162147813-05:00"
+generated: "2021-03-09T04:40:13.63178021-05:00"
